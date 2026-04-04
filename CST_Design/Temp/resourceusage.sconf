@@ -1,0 +1,15 @@
+FeatureKeywords:string:monitor:farfield:single freq, la:macromodel, modeler:model:anchorpoints, modeler:model:anchorpoints:saving, DELETERESULTS:M0P0, model:layerstacking:automatic, mesh::background::boolean, meshloading:problem_class_only, mesh:workflow:LegacyInput_from_CST_Studio_2020, mesh:workflow:nru, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh::attributes:rstepw, mesh:lib:blsurf, solver:hf:fd:task:1, monitor:resultfilemap:load, monitor:scaling:peak, mesh:tet:adaptive:anisotropicedge, la:precond:pdss7, DenseInitDangerousDim, monitor:resultfilemap:save, solver:hf:fd:meshenhancement, la:iterative, la:parallel_excitation:block, solver:hf:fd:amr:outerloop:readerrorestimator, solver:pp:farfield:tet:usesurfacefields, monitor:scaling:rms, monitor:scaling:undefined, mesh:tet:adaptive:fsample:recalc, solver:hf:fd:samples:27, background:normal, boundary:electric:xmax, boundary:electric:xmin, boundary:expanded open:zmax, boundary:expanded open:zmin, boundary:magnetic:ymax, boundary:magnetic:ymin, boundary:open:ConvPML, boundary:open:isolated, lineqssolver:setting:acceleratedrestart, material:SI:generalized model, material:SI:lossy metal, material:disp:eps, material:disp:modelnth, material:rho, mesh:tet, mesh:tet:autocurvature, mesh:tet:curved, mesh:tet:curved:3, monitor:3D:freq, monitor:e-field, monitor:h-field, monitor:power-loss, monitor:power:1d, monitor:surface current density, monitor:surface-power-loss, solver:hf:fd, solver:hf:fd:generalpurpose:tet, solver:hf:fd:order:2, solver:hf:fd:portloss, source:waveguide port:active, units:Capacitance:F, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:H, units:Length:mm, units:Resistance:Ohm, units:Temperature:Kelvin, units:Time:ns, units:Voltage:V, solver:pp:sparameter:sensitivityanalysis, solver:pp:sparameter:basicbranch, solver:pp:sparameter:unnorm, solver:pp:sparameter:updatebalance, TABLE:UNIT_CHECK:WRITE, acceleration:cpu:1, acceleration:mpi:0, lineqssolver:setting:auto, mesh:tet:adaptive, visualization:field_plot:default_engine, DELETERESULTS:M000, solver:hf:fd:samples:28, CSolverControl:progress:nullptr, modeler:model:anchorpoints:loading, modeler:load:fastloading, solver:hf:fd:task:15, solver:hf:fd:sweep:convchecktask, modeler:load:fullloading, solver:hf:fd:samples:25, solver:hf:fd:samples:31, front:femesh3dreader:readbc3file, meshloading:tet_complete, visualization:mesh_view:default_engine, solver:hf:fd:samples:29, solver:hf:fd:samples:34, solver:hf:fd:samples:many
+LastWorkflowState:string:tetmesh:success
+solver_hf_tet_fd/InitialFreePhysicalInMB:int:2409
+solver_hf_tet_fd/MaxResidentSizeInMB:int:90
+solver_hf_tet_fd/MaxResidentSizeMiB:int:3848
+solver_hf_tet_fd/MinFreePhysicalInMB:int:2347
+solver_pp/InitialFreePhysicalInMB:int:2384
+solver_pp/MaxResidentSizeInMB:int:25
+solver_pp/MaxResidentSizeMiB:int:8
+solver_pp/MinFreePhysicalInMB:int:2383
+tetmesh/InitialFreePhysicalInMB:int:725
+tetmesh/MaxResidentSizeInMB:int:89
+tetmesh/MaxResidentSizeMiB:int:70
+tetmesh/MinFreePhysicalInMB:int:725
+---
